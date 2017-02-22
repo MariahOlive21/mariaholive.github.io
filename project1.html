@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mariah Building a WebPage</title>
+    </head>
+    <body>
+    <a href="https://www.facebook.com/mariah.olive.1"><h1>Mariah Olive</h1>
+    <a href="https://www.facebook.com/mariah.olive.1"/><img class="spotlight" aria-busy="false" alt="Image may contain: 1 person, sunglasses, sky and outdoor" src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/15823108_10211590858916190_7297296556226847537_n.jpg?oh=00b1ae96382a5b7a4b235e36c7bae9ed&amp;oe=59434CF0"/>
+        <p>I'm currenlty writing this from Tampa, FL which is a nice change in scenery. I was in Las Vegas last week, I'm visiting my boyfriend out here.</p>
+        <p>I miss working for the newspaper on campus, I mainly miss the staff. All those ladies and gentlmen are amazing!</p>
+        <p>I believe we all need to made more aware of how the government is treating National Park lands. There should be no legislation passed to have oil drilling occur within National Parks.</p>
+    </body>
+</html>
